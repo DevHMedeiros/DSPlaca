@@ -1,4 +1,4 @@
-InfoPlaca
+DSPlacas_Bot
 =========
 
 A simple way to consult Brazilian vehicle license plates (placas).
